@@ -20,6 +20,7 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 # UML :
 ![enter image description ssad](https://i.imgur.com/0y7SLor.png)
 
+
 # How to run: 
 - Download the zip file and open Python and run the main.py program. 
 
@@ -28,6 +29,8 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
  **heres an example:**
 
   ![](https://i.imgur.com/zgEuZtM.png)
+  
+  **Please check the Wiki page for a more indepth explanations about the Classes and Methods used in them**
 
 
 
