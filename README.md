@@ -1,4 +1,4 @@
-# Ariel-OOP-4
+# Ariel-OOP-3
 Directed Weighted Graph in Python
 
 ![enter image description ssad](https://sites.google.com/a/afridar.ort.org.il/python/_/rsrc/1563114502427/home/python.jpg)
