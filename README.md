@@ -9,7 +9,7 @@ Directed Weighted Graph in Python
 This project is the fourth assignment given to us in the Object Oriented Programming course in Ariel University.
 In this project we'll take a look at a few algorithms concerning Weighted Directed Graphs in Python.
 
-## Implmentation description:
+## Implementation description:
 
 
 | Class's Name | Description |
