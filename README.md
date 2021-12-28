@@ -22,7 +22,7 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 
 # How to run: 
 - Download the zip file and open Python and run the main.py program 
-- 
+
 - You can also run the program from cmd heres an example:
 
   ![](https://i.imgur.com/zgEuZtM.png)
