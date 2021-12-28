@@ -258,7 +258,6 @@ class GraphAlgo(GraphAlgoInterface):
 
         return False
 
-    ########################## TO DO #################################
 
     def create_path_dict(self, node_lst: List[int]) -> {}:
         path_dict = {}  # { (node1_id, node2_id) : (path_length, path)
@@ -377,13 +376,8 @@ class GraphAlgo(GraphAlgoInterface):
             x2 = dest.get_pos()[0]
             y1 = src.get_pos()[1]
             y2 = dest.get_pos()[1]
-            x_list = [src.get_pos()[0], dest.get_pos()[0]]
-            y_list = [src.get_pos()[1], dest.get_pos()[1]]
-            # plt.plot(x_list, y_list, color="teal")
             plt.annotate("", xy=(x1, y1), xytext=(x2, y2), arrowprops=dict(arrowstyle="->"))
-            # plt.arrow(x1,y1,x2,y2,width = 0.05,color = "teal")
-            # plt.Arrow(src.get_pos()[0],src.get_pos()[1],dest.get_pos()[0],dest.get_pos()[1],color="teal")
-
+          
         for node_id, node in self.get_graph().get_all_v().items():
             plt.annotate(str(node_id), (node.get_pos()[0], node.get_pos()[1]), color='black')
             plt.plot(node.get_pos()[0], node.get_pos()[1], ".", color='red', markersize=10)
