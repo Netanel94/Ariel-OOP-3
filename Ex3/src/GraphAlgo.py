@@ -218,7 +218,6 @@ class GraphAlgo(GraphAlgoInterface):
         connected = []
         gIsConnected = False
         gtIsConnected = False
-        # check = False
         while len(que) != 0:
             curr = que.pop()
             connected.append(curr)
