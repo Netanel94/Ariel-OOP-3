@@ -21,9 +21,9 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 ![enter image description ssad](https://i.imgur.com/0y7SLor.png)
 
 # How to run: 
-- Download the zip file and open Python and run the main.py program 
+- Download the zip file and open Python and run the main.py program. 
 
-- You can also run the program from cmd 
+- You can also run the program from cmd. 
 
  **heres an example:**
 
